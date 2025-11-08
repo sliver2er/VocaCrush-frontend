@@ -16,8 +16,6 @@ API 키는 확장프로그램에 포함하지 않고 서버에서만 사용
 
 백엔드 레포: VocaCrush Backend (Word Decomposer API)
 
----
-
 📁 Repository Structure (제안)
 extension/
 ├─ manifest.json          # MV3 설정
